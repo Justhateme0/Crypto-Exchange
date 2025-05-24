@@ -30,7 +30,7 @@ A modern, user-friendly platform for exchanging cryptocurrencies to fiat money (
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Justhateme0/Crypto-Exchange
 cd crypto-exchange
 ```
 
