@@ -130,13 +130,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🌐 Support
-
-For support, please contact us through:
-- Email: support@example.com
-- Telegram: @support_example
-- Phone: +7 (XXX) XXX-XX-XX
-
 ---
 
-Made with ❤️ by Your Team Name 
+Made with ❤️ by Your JustHateMe
